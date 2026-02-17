@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ウェイティン!!",
+  "base_artist": "猫背のネイビーセゾン",
+  "createdAt": "2026-02-17T11:52:49.202610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェイティン!!",
+      "artist": "猫背のネイビーセゾン",
+      "has_synced": false,
+      "path": "select/01_ウェイティン!!_猫背のネイビーセゾン.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェイティン!!",
+      "artist": "猫背のネイビーセゾン",
+      "has_synced": false,
+      "path": "select/pl_01_ウェイティン!!_猫背のネイビーセゾン.txt"
+    }
+  ]
+}
